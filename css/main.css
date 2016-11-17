@@ -1,1 +1,10 @@
-/* Inserta tu CSS aqui */
+font-family: 'Kaushan Script', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Grand Hotel', cursive
+
+.name{
+	background-image: url(../images/fondoarcoiris.jpg);
+	background-repeat: no-repeat;
+	height: 800px;
+
+}
